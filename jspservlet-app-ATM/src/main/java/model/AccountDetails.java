@@ -1,6 +1,6 @@
 package model;
 
-public class AccountDetails {
+public class AccountDetails { //PraveenR
     
     private String accountType;
     private double withdrawOrDepositAmount;
